@@ -1,0 +1,55 @@
+
+body{
+  background-color: #a98e8e;
+  font-size: 12px;
+  text-align: left;
+}
+
+.center {
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 90%;
+}
+
+.conclusion{
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+}
+
+h4{
+  font-family: Times 'Times New Roman', Times, serif;
+}
+
+section {
+  max-width: 350px;
+  max-height: 100%;
+  margin: 20px auto;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.skills{
+  text-align: center;
+  border: 1px solid black;
+}
+
+.achievements{
+  text-align: center;
+  border: 1px solid black;
+}
+.goals{
+  text-align: center;
+  border: 1px solid black;
+}
